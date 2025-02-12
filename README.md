@@ -8,6 +8,9 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,)](https://skillicons.dev)
 
+[![How to contact me](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+
 
 <!--
 **akayangel218/akayangel218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
