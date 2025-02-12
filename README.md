@@ -5,13 +5,15 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 - What I like: Learning new things, Music, DDR, Biking, Travelling, Partying
 - What I dislike: Unreliable code, left lane hogs, choking in games, segmentation faults
 
+### **Programming Languages**
+[![Programming Languages](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,sqlite)](https://skillicons.dev)
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,)](https://skillicons.dev)
+### **Tools**
+[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,nodejs,react,linux,nextjs,bash,)](https://skillicons.dev)
 
-
-
-[![How you can reach out](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
-
+### **How you can reach out...**
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
+[![Contact](https://skillicons.dev/icons?i=gmail)](kidusmichael308@gmail.com)
 
 
 <!--
