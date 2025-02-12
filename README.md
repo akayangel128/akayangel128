@@ -8,7 +8,7 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,)](https://skillicons.dev)
 
-[![How to contact me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
+[![How you can reach out...](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
 
 
 
