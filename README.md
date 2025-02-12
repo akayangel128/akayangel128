@@ -2,13 +2,15 @@
 I am an upcoming Software Engineer with a passion for media, cybersecurity and AI looking for opportunities in the field. 
 In my downtime I am learning (at a slow pace) how to play piano and guitar and I love travelling and going to the arcade.
 
-- Likes: Learning new things, Music, DDR, Biking, Travelling, Partying
-- Dislikes: Unreliable code, left lane hogs, choking in games, segmentation faults
+- What I like: Learning new things, Music, DDR, Biking, Travelling, Partying
+- What I dislike: Unreliable code, left lane hogs, choking in games, segmentation faults
 
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,)](https://skillicons.dev)
 
-[![How you can reach out...](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
+
+
+[![How you can reach out](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
 
 
 
