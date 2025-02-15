@@ -2,7 +2,7 @@
 I am an upcoming Software Engineer with a passion for media, cybersecurity and AI looking for opportunities in the field. 
 In my downtime I am learning (at a slow pace) how to play piano and guitar and I love travelling and going to the arcade.
 
-- What I like: Learning new things, Music, DDR, Biking, Travelling, Partying
+- What I like: Learning new things, Music, DDR, Biking, Travelling, Partying, Gaming
 - What I dislike: Unreliable code, left lane hogs, choking in games, segmentation faults
 
 ### **Programming Languages**
