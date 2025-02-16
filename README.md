@@ -13,6 +13,7 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 
 ### **How you can reach out...**
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
+[![Contact](https://skillicons.dev/icons?i=discord)](kidusmichael308@gmail.com)
 [![Contact](https://skillicons.dev/icons?i=gmail)](kidusmichael308@gmail.com)
 
 
