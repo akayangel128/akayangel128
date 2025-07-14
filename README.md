@@ -6,7 +6,7 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 - What I dislike: Unreliable code, left lane hogs, choking in games, segmentation faults
 
 ### **Programming Languages**
-[![Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,sqlite)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,sqlite,mongodb)](https://skillicons.dev)
 
 ### **Tools**
 [![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,nodejs,react,linux,nextjs,bash,)](https://skillicons.dev)
