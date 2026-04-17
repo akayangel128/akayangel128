@@ -9,7 +9,7 @@ In my downtime I am learning (at a slow pace) how to play piano and guitar and I
 [![Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,sqlite,postgres,mongodb)](https://skillicons.dev)
 
 ### **Tools**
-[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,nodejs,react,linux,nextjs,bash,docker,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,nodejs,react,linux,nextjs,bash,docker,vercel,claude)](https://skillicons.dev)
 
 ### **How you can reach out...**
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kidus-michael/)
